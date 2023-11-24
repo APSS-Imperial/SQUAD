@@ -31,5 +31,16 @@ Features  | Model Self-Repetition, Model Stacking
   ![roc_curve (5)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/d45479d0-7526-4795-9b2a-bfd2cd58ba48)
 
 
-### Interesting Examples:
+### Interesting Impersonators:
+
+![theellenshow_impersonation](https://github.com/APSS-Imperial/SQUAD/assets/151850923/83810410-a559-4323-a8a6-e1e121da20fa)
+
+![shakira_impersonation](https://github.com/APSS-Imperial/SQUAD/assets/151850923/9a7bd2c5-9352-4b31-901a-9210da60a748)
+
+### Interesting Tweets:
+![selena_tweet](https://github.com/APSS-Imperial/SQUAD/assets/151850923/97888ee4-3030-4cd0-adbd-96e02da4bb15)
+
+### Interesting Typo Mentions:
+![Tweet1 (1)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/5589a5f2-1b0b-4836-b49f-92d0618d4ea1)
+
 
