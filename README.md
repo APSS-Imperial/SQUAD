@@ -37,9 +37,11 @@ Features  | Model Self-Repetition, Model Stacking
 
 ![shakira_impersonation](https://github.com/APSS-Imperial/SQUAD/assets/151850923/9a7bd2c5-9352-4b31-901a-9210da60a748)
 
+***
 ### Interesting Tweets:
 ![selena_tweet](https://github.com/APSS-Imperial/SQUAD/assets/151850923/97888ee4-3030-4cd0-adbd-96e02da4bb15)
 
+***
 ### Interesting Typo Mentions:
 ![Tweet1 (1)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/5589a5f2-1b0b-4836-b49f-92d0618d4ea1)
 
