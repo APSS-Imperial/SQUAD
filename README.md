@@ -2,13 +2,15 @@
 
 ⦿ Paper Link :
 
+⦿ Project's Website : 
+
 ⦿ Conference : [ACM ASIACCS 2024](https://asiaccs2024.sutd.edu.sg)
 
 ### Research Question
-a) Is username squatting a prevalent problem on X?  
-b) Ηow does it contribute to online confusion?  
-c) What are the username characteristics of the most problematic username variants?  
-d) What is the specific behavior of the squatted accounts?
+1) Is username squatting a prevalent problem on X?  
+2) Ηow does it contribute to online confusion?  
+3) What are the username characteristics of the most problematic username variants?  
+4) What is the specific behavior of the squatted accounts?
 
 ### Tool: UsernameCrazy
  
