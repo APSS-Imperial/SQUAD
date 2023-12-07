@@ -23,7 +23,7 @@ Features  | Model Self-Repetition, Model Stacking
 ![Generation Models_in_png](https://github.com/APSS-Imperial/SQUAD/assets/151850923/a6f1ebcb-e936-4f68-b406-3db2ed717dd8)
 
 
-### SQUAD : End-to-End Framework
+### End-to-End Framework : SQUAD
 
 ![end-to-end (3)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/deea2ea6-1855-42ba-9984-10907b613488)
 
