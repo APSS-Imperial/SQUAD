@@ -23,35 +23,35 @@ Features  | Model Self-Repetition, Model Stacking
 ![Generation Models_in_png](https://github.com/APSS-Imperial/SQUAD/assets/151850923/a6f1ebcb-e936-4f68-b406-3db2ed717dd8)
 
 
-### End-to-End Framework: SQUAD
+### SQUAD : End-to-End Framework
 
 ![end-to-end (3)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/deea2ea6-1855-42ba-9984-10907b613488)
 
   #### Classification Results:
   <!---  ![roc_curve (5)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/d45479d0-7526-4795-9b2a-bfd2cd58ba48) --->
-  <img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/d45479d0-7526-4795-9b2a-bfd2cd58ba48" width="547" height="262">
+  <img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/d45479d0-7526-4795-9b2a-bfd2cd58ba48" width="387" height="252">
 
-### Bot Analysis:
- #### Bot Description:
- #### Botometer Results Description:
- #### Botometer CAP Score Selection:
+<!--- ### Bot Analysis: --->
+ <!--- #### Bot Description: --->
+ <!--- #### Botometer Results Description: --->
+ <!--- #### Botometer CAP Score Selection: --->
   
 
-### Interesting Impersonators:
+<!--- ### Interesting Impersonators: --->
 
-![theellenshow_impersonation](https://github.com/APSS-Imperial/SQUAD/assets/151850923/83810410-a559-4323-a8a6-e1e121da20fa)
+<!--- ![theellenshow_impersonation](https://github.com/APSS-Imperial/SQUAD/assets/151850923/83810410-a559-4323-a8a6-e1e121da20fa) --->
 
 <!---  ![shakira_impersonation](https://github.com/APSS-Imperial/SQUAD/assets/151850923/9a7bd2c5-9352-4b31-901a-9210da60a748) --->
-<img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/9a7bd2c5-9352-4b31-901a-9210da60a748" width="2678" height="1820">
+<!--- <img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/9a7bd2c5-9352-4b31-901a-9210da60a748" width="528" height="280"> --->
 
 <!--- *** --->
-### Interesting Tweets:
+<!--- ### Interesting Tweets: --->
 <!---  ![selena_tweet](https://github.com/APSS-Imperial/SQUAD/assets/151850923/97888ee4-3030-4cd0-adbd-96e02da4bb15) --->
-<img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/97888ee4-3030-4cd0-adbd-96e02da4bb15" width="754" height="87">
+<!--- <img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/97888ee4-3030-4cd0-adbd-96e02da4bb15" width="754" height="87"> --->
 
 <!--- *** --->
-### Interesting Typo Mentions:
+<!--- ### Interesting Typo Mentions: --->
 <!---![Tweet1 (1)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/5589a5f2-1b0b-4836-b49f-92d0618d4ea1) --->
-<img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/5589a5f2-1b0b-4836-b49f-92d0618d4ea1" width="684" height="234">
+<!--- <img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/5589a5f2-1b0b-4836-b49f-92d0618d4ea1" width="684" height="234"> --->
 
 
