@@ -14,6 +14,10 @@
 3) What are the username characteristics of the most problematic username variants?  
 4) What is the specific behavior of the squatted accounts?
 
+### Project's Website
+1) Further measurement experiments (e.g., Botometer Analysis)
+2) Findings (e.g., profiles of impersonators and suspicious links)
+
 ### Tool: UsernameCrazy
  
 UsernameCrazy  | Details
