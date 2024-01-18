@@ -1,10 +1,12 @@
 # Paper : Username Squatting on Online Social Networks: A Study on X
 
-⦿ Paper Link :
+⦿ Paper Link (pre-print) : [SQUAD](https://arxiv.org/abs/2401.09209) 
+<!--- (https://arxiv.org/abs/2401.09209#:~:text=Our%20study%20reveals%20that%20thousands,original%20account%20signalling%20impersonation%20attempts) --->
 
-⦿ Project's Website : 
+⦿ Project's Website : [Framework](https://sites.google.com/view/squad-framework/home)
 
-⦿ Conference : [ACM ASIACCS 2024](https://asiaccs2024.sutd.edu.sg)
+⦿ Conference : [ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2024](https://asiaccs2024.sutd.edu.sg)
+<!---  [ACM ASIACCS 2024](https://asiaccs2024.sutd.edu.sg) --->
 
 ### Research Question
 1) Is username squatting a prevalent problem on X?  
