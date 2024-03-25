@@ -33,6 +33,7 @@ New Features  | Model Self-Repetition, Model Stacking
 ![end-to-end (3)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/deea2ea6-1855-42ba-9984-10907b613488)
 
   #### Classification Results:
+  • 94% F1-score
   <!---  ![roc_curve (5)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/d45479d0-7526-4795-9b2a-bfd2cd58ba48) --->
   <img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/d45479d0-7526-4795-9b2a-bfd2cd58ba48" width="387" height="252">
 
