@@ -1,6 +1,6 @@
 # Paper : Username Squatting on Online Social Networks: A Study on X
 
-⦿ Paper Link (pre-print) : [SQUAD](https://arxiv.org/abs/2401.09209) 
+⦿ Paper Link (arXiv) : [SQUAD](https://arxiv.org/abs/2401.09209) 
 <!--- (https://arxiv.org/abs/2401.09209#:~:text=Our%20study%20reveals%20that%20thousands,original%20account%20signalling%20impersonation%20attempts) --->
 
 ⦿ Project's Website : [Framework](https://sites.google.com/view/squad-framework/home)
