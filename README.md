@@ -60,4 +60,8 @@ New Features  | Model Self-Repetition, Model Stacking
 <!---![Tweet1 (1)](https://github.com/APSS-Imperial/SQUAD/assets/151850923/5589a5f2-1b0b-4836-b49f-92d0618d4ea1) --->
 <!--- <img src="https://github.com/APSS-Imperial/SQUAD/assets/151850923/5589a5f2-1b0b-4836-b49f-92d0618d4ea1" width="684" height="234"> --->
 
-
+### How to Run UsernameCrazy : 
+1. Download the "UsernameCrazy.py" file.
+2. Create a 'usernames.txt' file.
+3. Locate both files in the same directory.
+4. Run 'python UsernameCrazy.py'.
